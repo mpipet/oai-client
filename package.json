@@ -1,0 +1,23 @@
+{
+  "name": "oai-client",
+  "version": "0.0.1",
+  "description": "Simple OAI PMH client",
+  "author": "mathieu pipet",
+  "license": "MIT",
+  "main": "oaiCLient.js",
+  "dependencies": {
+     "elementtree": "~0.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpipet/oai-client.git"
+  },
+  "keywords": [
+    "oai",
+    "oai-pmh",
+    "metadatas"
+  ]
+}
